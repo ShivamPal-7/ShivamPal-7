@@ -11,6 +11,6 @@ Full Stack Web Development enthusiast | BSc Computer Science, University of Mumb
 #### Featured Projects
 - 🎯 [Smart Attendance System](https://github.com/ShivamPal-7/Smart-Attendance-System-Using-Face-Recognition) — real-time attendance using OpenCV face recognition
 - 🌐 [Namma Bhashe — CEP](https://github.com/ShivamPal-7/namma-bhashe-cep) — local-language digital learning resources platform
-
+- 🧮 [Algorithm Visualizer](https://github.com/ShivamPal-7/algorithm-visualizer) — interactive sorting/searching visualizer covering 8 algorithms, built with      vanilla JS
 #### Tech Stack
 `C++` `Python` `JavaScript` `React.js` `Node.js` `HTML/CSS` `MongoDB` `MySQL` `Git`
